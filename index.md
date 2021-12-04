@@ -37,4 +37,4 @@ Yes. Literally 1984.
 - ```!a emoji``` Quickly upload an emoji to the server :D
 - ```!a batch (packname)``` Okay now this one I'm really proud of. View all the packs and their contents [**here**](https://github.com/AmazingSupDawg/AmazingSupDawg/blob/1402411ecaf1d6d718bd82f5df137dce1dc1a51e/emojiPacks.json)
 
-#Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
+# Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
