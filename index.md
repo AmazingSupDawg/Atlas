@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Atlas
+## A multipurpose discord bot
 
-You can use the [editor on GitHub](https://github.com/AmazingSupDawg/AtlasWebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Already interested? [**Add Atlas to your server!**](https://discord.com/api/oauth2/authorize?client_id=867920092145528853&permissions=8&scope=bot%20applications.commands)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Okay, maybe it isn't that easy. Fair enough.
 
-### Markdown
+### Okay then what the heck does Atlas do anyways?
+Ooh Ohh, I have an answer for this!
+First off you can view all the commands [**here**](https://docs.google.com/spreadsheets/d/1oWtJcOIYf016UX8BXdJ6oXWkx2U8FNCaXYTzFCCr9ho/edit?usp=sharing) but that's kinda boring.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well Atlas does a lot of things. (I put wayyyyy to many hours into this bot lmao)
+But we can break it into main catagories.
+1. General/Misc CMDS
+2. Moderation
+3. Fun Stuff!
+4. Anime/Friendship
+5. Economy
+6. Event/Seasonal
 
-```markdown
-Syntax highlighted code block
+And hey just for being here, I'll break it into the most useful/popular commands for each catagory
 
-# Header 1
-## Header 2
-### Header 3
+### General/Misc CMDS
+Older commands that don't nessesarily fit a catagory but are still useful.
+- ```!a test``` This is a good indicator of if the bot is online OR if the bot can send messages in the channel.
+- ```!a map (location)``` Oh boy. People don't know where anything is these days. Send this with a location to show a google maps result for it!
+- ```!a weather (location)``` Get weather from anywhere in the world!
 
-- Bulleted
-- List
+### Moderation
+Yes. Literally 1984.
+- ```!a clear (amount)``` Want to rapidly clear message history? Use this!
+- ```!a editSearch``` Want to publically track edits to messages? Go right ahead.
+- ```!a kick``` I mean it does exactly what you'd expect. Kicks a user from the server. Simple as that.
+- ```!a ban``` Now hear me out. This one is shocking. It **bans** a user from the server. Crazy.
+- ```!a stats``` Get them juicy details about a user. See how long they've been on this godawful platform.
+- ```!a members``` See how many members are in the server!
+- ```!a emoji``` Quickly upload an emoji to the server :D
+- ```!a batch (packname)``` Okay now this one I'm really proud of. View all the packs and their contents [**here**](https://github.com/AmazingSupDawg/AmazingSupDawg/blob/1402411ecaf1d6d718bd82f5df137dce1dc1a51e/emojiPacks.json)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmazingSupDawg/AtlasWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
