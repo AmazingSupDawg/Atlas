@@ -58,7 +58,7 @@ This is what a bots for right?
 ### Economy
 - ```!a shop``` See whats in the ever changing shop! :D
 - ```!a purchase (item) (quantity)``` Capitalism moment.
-- ```!a work``` :|
+- ```!a work``` :l
 - ```!a crime``` I mean its *technically* work
 - ```!a balance``` T-T
 - ```!a sell (item) (quantity)``` Bye bye dinos
