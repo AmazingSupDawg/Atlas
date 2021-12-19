@@ -37,4 +37,32 @@ Yes. Literally 1984.
 - ```!a emoji``` Quickly upload an emoji to the server :D
 - ```!a batch (packname)``` Okay now this one I'm really proud of. View all the packs and their contents [**here**](https://github.com/AmazingSupDawg/AmazingSupDawg/blob/1402411ecaf1d6d718bd82f5df137dce1dc1a51e/emojiPacks.json)
 
+### Fun Commands! :D
+This is what a bots for right?
+- ```!a (Animal Name: dog, cat, fox, panda)``` Gets a random photo and a random fact for the animal!
+- ```!a decide (word 1) (word 2)``` Do you also have difficulties deciding things? Use this!
+- ```!a fact``` Do you want a useless fact you'll forget in 2 minutes? Here ya go!
+- ```!a 8ball (Advice needed)``` Let the magic 8 ball decide!
+- ```!a extend (Text)``` Have the power of AI extend your sentence for you.
+
+### Anime/Friendship
+- ```!a hug (user)``` Don't we all need one of these?
+- ```!a pat (user)``` *pat*
+- ```!a highfive (user)``` Yeah!
+- ```!a kiss (user)``` Ayo?
+- ```!a kill (user)``` Dang okay. 
+- ```!a punch (user)``` UFC moment
+- ```!a cuddle (user)``` Awhhh.
+- ```!a slap (user)``` Dang alr.
+
+### Economy
+- ```!a shop``` See whats in the ever changing shop! :D
+- ```!a purchase (item) (quantity)``` Capitalism moment.
+- ```!a work``` :|
+- ```!a crime``` I mean its *technically* work
+- ```!a balance``` T-T
+- ```!a sell (item) (quantity)``` Bye bye dinos
+- ```!a inventory``` See that loot
+
+
 # Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
