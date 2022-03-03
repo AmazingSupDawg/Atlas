@@ -37,7 +37,7 @@ Yes. Literally 1984.
 - ```!a emoji``` Quickly upload an emoji to the server :D
 - ```!a batch (packname)``` Okay now this one I'm really proud of. View all the packs and their contents [**here**](https://github.com/AmazingSupDawg/AmazingSupDawg/blob/1402411ecaf1d6d718bd82f5df137dce1dc1a51e/emojiPacks.json)
 
--```/modmail (Log Channel) (Thread Channel)``` Thread channels will be public and where threads will be created for tickets. Log channel is your private channel to see mod mail.
+- ```/modmail (Log Channel) (Thread Channel)``` Thread channels will be public and where threads will be created for tickets. Log channel is your private channel to see mod mail.
 
 ### Fun Commands! :D
 This is what a bots for right?
@@ -68,16 +68,16 @@ This is what a bots for right?
 - ```!a inventory``` See that loot
 
 ### Mood Logging
-Honestly a really neat feature
--```/log``` A forum you can fill out that will be logged
--```/week``` Get the past 7 logs charted out for you!
--```!a remind``` Get daily reminders at 9pm EST. If you've already completed it for that day, you won't be notified
--```!a remindLeave``` Opt out of those reminders :C
+Honestly a really neat feature.
+- ```/log``` A forum you can fill out that will be logged
+- ```/week``` Get the past 7 logs charted out for you!
+- ```!a remind``` Get daily reminders at 9pm EST. If you've already completed it for that day, you won't be notified
+- ```!a remindLeave``` Opt out of those reminders :C
 
 ### Ian NFTs
 A joke project in collaboration with Bananas
--```!a ian``` Claim your daily Ian NFT
--```!a trade``` Trade your NFTs with somebody
--```!a nfts``` View all your NFTs
+- ```!a ian``` Claim your daily Ian NFT
+- ```!a trade``` Trade your NFTs with somebody
+- ```!a nfts``` View all your NFTs
 
 # Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
