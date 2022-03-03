@@ -36,6 +36,7 @@ Yes. Literally 1984.
 - ```!a members``` See how many members are in the server!
 - ```!a emoji``` Quickly upload an emoji to the server :D
 - ```!a batch (packname)``` Okay now this one I'm really proud of. View all the packs and their contents [**here**](https://github.com/AmazingSupDawg/AmazingSupDawg/blob/1402411ecaf1d6d718bd82f5df137dce1dc1a51e/emojiPacks.json)
+
 -```/modmail (Log Channel) (Thread Channel)``` Thread channels will be public and where threads will be created for tickets. Log channel is your private channel to see mod mail.
 
 ### Fun Commands! :D
