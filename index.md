@@ -66,5 +66,17 @@ This is what a bots for right?
 - ```!a sell (item) (quantity)``` Bye bye dinos
 - ```!a inventory``` See that loot
 
+###Mood Logging
+Honestly a really neat feature
+-```/log``` A forum you can fill out that will be logged
+-```/week``` Get the past 7 logs charted out for you!
+-```!a remind``` Get daily reminders at 9pm EST. If you've already completed it for that day, you won't be notified
+-```!a remindLeave``` Opt out of those reminders :C
+
+###Ian NFTs
+A joke project in collaboration with Bananas
+-```!a ian``` Claim your daily Ian NFT
+-```!a trade``` Trade your NFTs with somebody
+-```!a nfts``` View all your NFTs
 
 # Note. This website is a WIP. And is **NOT** fully complete. I will work on it when I have more time :p
