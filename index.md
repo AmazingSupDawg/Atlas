@@ -4,7 +4,7 @@
 Already interested? [**Add Atlas to your server!**](https://discord.com/api/oauth2/authorize?client_id=867920092145528853&permissions=8&scope=bot%20applications.commands)
 
 Looking for link shortener stuff and it's being funky?
-Use http://www.atlasbot.net
+Use [www.atlasbot.net](http://www.atlasbot.net)
 
 ### Okay then what the heck does Atlas do anyways?
 Ooh Ohh, I have an answer for this!
