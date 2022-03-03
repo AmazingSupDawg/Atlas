@@ -17,7 +17,9 @@ But we can break it into main catagories.
 3. Fun Stuff!
 4. Anime/Friendship
 5. Economy
-6. Event/Seasonal
+6. Mood logging
+7. Ian NFTs (Chill out its a joke project)
+8. Event/Seasonal
 
 And hey just for being here, I'll break it into the most useful/popular commands for each catagory
 
